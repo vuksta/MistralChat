@@ -1,4 +1,4 @@
-# My Chat App
+# A Mistral Chat Web-app
 
 A simple React-based chat application using MistralAI.
 
