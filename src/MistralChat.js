@@ -3,8 +3,8 @@ import axios from 'axios';
 import './MistralChat.css';
 import botIcon from './mistral-logo.png'; // Ensure you have the logo image in the src directory
 
-const API_KEY = 'XI8QlceMrFheRs3jouPLOW1gJOJhPwWj';
-const API_URL = 'https://api.mistral.ai/v1/chat/completions';
+const API_KEY = 'YOUR-API-KEY';
+const API_URL = 'YOR-API-WEBSITE-URL';
 
 const MistralChat = () => {
   const [input, setInput] = useState('');
