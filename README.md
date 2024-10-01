@@ -34,7 +34,7 @@ A simple React-based chat application using the MistralAI small model.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome. Feel free to submit a Pull Request.
 
 ## License
 
