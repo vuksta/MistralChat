@@ -26,7 +26,7 @@ A simple React-based chat application using the MistralAI small model.
 - `npm test`: Launches the test runner
 - `npm run build`: Builds the app for production
 
-## Technologies Used
+## Tech Used
 
 - React
 - MistralAI API
