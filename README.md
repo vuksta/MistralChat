@@ -1,6 +1,6 @@
 # A Mistral Chat Web-app
 
-A simple React-based chat application using the MistralAI small model.
+A simple React-based chat app using the MistralAI small model for the text generation.
 
 ## Features
 
